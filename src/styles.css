@@ -1,1 +1,53 @@
 /* You can add global styles to this file, and also import other style files */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&family=Cormorant+Upright:wght@300;400;500;600;700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 20px 20% 0px 20%;
+    font-family: "Rotobo", sans-serif;
+    font-size: 16px;
+    color: #222222;
+    line-height: 1.6;
+    background: #F4F4F4;
+}
+
+a {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Cinzel", sans-serif;
+    font-weight: 700;
+}
+
+/* .button, .label {
+    font-family: "Cinzel", sans-serif;
+    font-weight: 600;
+    
+    text-transform: uppercase;
+} */
+
+
+
+
+/* Primary: #1A1A1A */
+/* Secondary: #9E9E9E */
+/* Accent: #BFA67A */
+/* Background: #F4F4F4 */
+/* Text: #222222 */
+
