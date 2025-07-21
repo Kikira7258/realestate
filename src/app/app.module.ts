@@ -9,7 +9,7 @@ import { AboutComponent } from './views/client-view/about/about.component';
 import { FaqComponent } from './views/client-view/faq/faq.component';
 import { ContactComponent } from './views/client-view/contact/contact.component';
 import { ListingsComponent } from './views/client-view/listings/listings.component';
-import { NavbarComponent } from './shared/navbar/navbar.component';
+import { HeaderComponent } from './shared/header/header.component';
 
 @NgModule({
   declarations: [
@@ -19,7 +19,7 @@ import { NavbarComponent } from './shared/navbar/navbar.component';
     FaqComponent,
     ContactComponent,
     ListingsComponent,
-    NavbarComponent
+    HeaderComponent
   ],
   imports: [
     BrowserModule,
